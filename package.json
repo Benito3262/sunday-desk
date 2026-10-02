@@ -1,0 +1,17 @@
+{
+  "name": "sunday-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sunday Desk — weekend reference-gap desk for tokenized stocks on BSC. BNB Hack: Tokenized Stocks Edition.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@walletconnect/ethereum-provider": "^2.21.1",
+    "next": "^14.2.18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
